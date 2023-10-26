@@ -1,0 +1,16 @@
+numpy 
+pandas
+scikit-learn
+jupyter 
+ipywidgets 
+tqdm
+matplotlib
+
+iterative-stratification
+xgboost==1.6.2
+catboost==1.2.2
+lightgbm==4.1.0
+
+earthengine-api
+folium
+gcloud
